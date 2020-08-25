@@ -1,2 +1,2 @@
 # Eventbrite
-Pulling data frim Evenbrite
+Pulling data from Evenbrite
